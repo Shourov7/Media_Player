@@ -1,0 +1,13 @@
+D:\Project 1\Media Player\Media Player\bin\Debug\Media Player.exe
+D:\Project 1\Media Player\Media Player\bin\Debug\Media Player.pdb
+D:\Project 1\Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+D:\Project 1\Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Project 1\Media Player\Media Player\obj\Debug\Media Player.csprojResolveAssemblyReference.cache
+D:\Project 1\Media Player\Media Player\obj\Debug\Interop.WMPLib.dll
+D:\Project 1\Media Player\Media Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Project 1\Media Player\Media Player\obj\Debug\Media Player.csproj.ResolveComReference.cache
+D:\Project 1\Media Player\Media Player\obj\Debug\Media_Player.Form1.resources
+D:\Project 1\Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+D:\Project 1\Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.Cache
+D:\Project 1\Media Player\Media Player\obj\Debug\Media Player.exe
+D:\Project 1\Media Player\Media Player\obj\Debug\Media Player.pdb
